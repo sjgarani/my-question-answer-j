@@ -1,5 +1,4 @@
 .idx/
 .venv/
-**.jpg
 .env
 .vscode/
